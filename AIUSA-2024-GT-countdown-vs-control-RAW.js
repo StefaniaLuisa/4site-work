@@ -52,7 +52,7 @@ function triggerPromotions() {
       });
     } else if (myPromotion == "spinner") {
       console.log(
-        "Triggering Promotion #108611: 2024 - Multistep Lightbox - Video Asset"
+        "Triggering Promotion #108611: 2024 - Multistep Lightbox - Countdown - TEST"
       );
       window.triggerPromotion(108611);
     }  else {
